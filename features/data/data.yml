@@ -1,0 +1,8 @@
+#Onboarding - Create user data
+create_new_account:
+  individual_account_type: true
+  username: ~"QAUS#{$timestamp}"
+  email: qa@google.com #~email_address
+  password: qa12345!
+  confirm_password: qa12345!
+  terms: true
