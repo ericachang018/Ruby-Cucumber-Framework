@@ -6,3 +6,7 @@ create_new_account:
   password: qa12345!
   confirm_password: qa12345!
   terms: true
+
+
+google_search_test:
+  search_term: "brexit"
