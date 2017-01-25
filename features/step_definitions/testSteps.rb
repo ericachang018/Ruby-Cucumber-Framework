@@ -1,5 +1,5 @@
 Given(/^I am setting up cucumber on my computer$/) do
-  vist(GoogleHome)
+  visit(GoogleHome)
   on(GoogleHome).search_google
 end
 
